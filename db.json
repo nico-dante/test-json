@@ -2,28 +2,26 @@
 	"authentication": {
 		"token": "pippo, pluto e paperino"
 	},
-	"profile": {
-		"profiles": [
-			{
-				"id": "uno",
-				"name": "profilo uno",
-				"description": "descrizione del profilo uno"
-			},
-			{
-				"id": "due",
-				"name": "profilo due",
-				"description": "descrizione del profilo due"
-			},
-			{
-				"id": "tre",
-				"name": "profilo tre",
-				"description": "descrizione del profilo tre"
-			},
-			{
-				"id": "quattro",
-				"name": "profilo quattro",
-				"description": "descrizione del profilo quattro"
-			}
-		]
-	}
+	"profile": [
+		{
+			"id": "uno",
+			"name": "profilo uno",
+			"description": "descrizione del profilo uno"
+		},
+		{
+			"id": "due",
+			"name": "profilo due",
+			"description": "descrizione del profilo due"
+		},
+		{
+			"id": "tre",
+			"name": "profilo tre",
+			"description": "descrizione del profilo tre"
+		},
+		{
+			"id": "quattro",
+			"name": "profilo quattro",
+			"description": "descrizione del profilo quattro"
+		}
+	]
 }
